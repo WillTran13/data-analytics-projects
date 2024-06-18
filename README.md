@@ -6,7 +6,7 @@ Welcome to my Data Analytics repository. This repository is to showcasing variou
 
 ## Current Projects
 
-### Export Hay Sales Dashboard
+### [Export Hay Sales Dashboard](https://github.com/WillTran13/data-analytics-projects/blob/main/Excel_DASHBOARD_Export_Sales_Performance_Report.xlsx)
 **Description**: This project features an interactive Excel dashboard that visualizes and analyzes export hay sales data. The dashboard includes various graphs and charts that categorize sales data by customer segmentation, city, country, and hay type.
 
 **Technical Skills Demonstrated**:
